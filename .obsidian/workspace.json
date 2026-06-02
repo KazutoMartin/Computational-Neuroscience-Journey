@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "267b26e1d33fb6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2735669a2e10ffe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3abfeca9f2bf76",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38d3a342ac61be56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e46c6c037431312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978d4be5e2cc22fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15a8abafa966fd17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4b3a7f1949e720f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "9540ef2c053ddd68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0266534eae12326",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6658dcb81d39be21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "eb33221bd964c708",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f6e49a7d20b44be5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2aecc036935f37db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e4a2879735f1cbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7a3abfeca9f2bf76",
+  "lastOpenFiles": [
+    "6 - Main Notes/Neuroscience Mathematics.md",
+    "6 - Main Notes/Neuroscience Machine Learning and Advanced Analytics.md",
+    "6 - Main Notes/Neuroscience Basic knowledge.md",
+    "6 - Main Notes/fMRI Signal Processing.md",
+    "6 - Main Notes/EEG Signal Processing.md",
+    "3 - Tags/Neuroscience.md",
+    "6 - Main Notes/[Probability and Statistics.md",
+    "3 - Tags/Probability and Statistics.md",
+    "5 - Templates/Main Note.md",
+    "3 - Tags/Machine Learning.md",
+    "2 - Source Materials/EEG and fMRI signals processing requirements.md",
+    "3 - Tags/Hemodynamics.md",
+    "3 - Tags/gemini.md",
+    "3 - Tags/Neuroanatomy.md",
+    "3 - Tags/Neurophysiology.md",
+    "3 - Tags/calculus.md",
+    "3 - Tags/Linear Algebra.md",
+    "3 - Tags/Signal.md",
+    "3 - Tags/fMRI.md",
+    "3 - Tags/EEG.md",
+    "Main Notes",
+    "Computational Neuroscience/EEG Signal Processing.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "Untitled",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Materials",
+    "1 - Rough Notes",
+    "Untitled 1.md",
+    "z-Attachments",
+    "Machine Learinng"
+  ]
+}
