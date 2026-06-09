@@ -1,6 +1,6 @@
 2026-06-03 01:13
 
-Tags: [[Neuroscience]] [[Hemodynamics]] [[fMRI]] [[Signal]] [[Linear Algebra]]
+Tags: [[Neuroscience]] [[Hemodynamics]] [[fMRI]] [[Signal]] [[Linear Algebra]] #Requirements
 
 
 # fMRI Signal Processing

@@ -1,6 +1,6 @@
 2026-06-03 01:20
 
-Tags: [[Neuroscience]] [[EEG]] [[fMRI]] [[Linear Algebra]] [[Machine Learning]] [[Probability and Statistics]]
+Tags: [[Neuroscience]] [[EEG]] [[fMRI]] [[Linear Algebra]] [[Machine Learning]] [[Probability and Statistics]] #Requirements
 
 
 # Neuroscience Machine Learning and Advanced Analytics

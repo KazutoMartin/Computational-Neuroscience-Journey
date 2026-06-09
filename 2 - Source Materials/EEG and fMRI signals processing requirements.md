@@ -3,8 +3,7 @@ prompt:
 `tell me specifically what skills and concepts i should learn to be able to process EEG signals and fMRI signals. give me a markdown file for this explantion and try to be as detailed as possible`
 
 produced by gemini 3.1 pro
-[[gemini]]
-
+#gemini
 # Comprehensive Guide: Skills and Concepts for EEG and fMRI Signal Processing
 
 Processing Electroencephalography (EEG) and functional Magnetic Resonance Imaging (fMRI) signals requires a highly interdisciplinary skill set, bridging neuroscience, mathematics, signal processing, and computer science. Below is a detailed breakdown of the specific concepts and skills you need to master.

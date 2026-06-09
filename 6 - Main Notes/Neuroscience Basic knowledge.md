@@ -1,6 +1,6 @@
 2026-06-03 01:03
 
-Tags: [[Neuroscience]] [[Neuroanatomy]] [[Neurophysiology]] [[Hemodynamics]] [[EEG]] [[fMRI]]
+Tags: [[Neuroscience]] [[Neuroanatomy]] [[Neurophysiology]] [[Hemodynamics]] [[EEG]] [[fMRI]] #Requirements
 
 
 # Neuroscience Basic knowledge

@@ -1,6 +1,6 @@
 2026-06-03 00:53
 
-Tags: [[Neuroscience]] [[EEG]] [[fMRI]] [[Linear Algebra]] [[Signal]] [[Probability and Statistics]] [[calculus]]
+Tags: [[Neuroscience]] [[EEG]] [[fMRI]] [[Linear Algebra]] [[Signal]] [[Probability and Statistics]] [[calculus]] #Requirements
 
 
 # Neuroscience Signal Processing Mathematics
@@ -9,12 +9,12 @@ Tags: [[Neuroscience]] [[EEG]] [[fMRI]] [[Linear Algebra]] [[Signal]] [[Probabil
 
 - [x] Matrices
 - [x] vectors
-- [ ] eigenvalues/eigenvectors
-- [ ] Singular Value Decomposition (SVD)
+- [x] eigenvalues/eigenvectors
+- [x] Singular Value Decomposition (SVD)
 
 ## Calculus
 - [x] Derivatives and integrals
-- [ ] optimization (gradient descent)
+- [x] optimization (gradient descent)
 
 ## Probability and Statistics
 - [x] Mean 

@@ -1,6 +1,6 @@
 2026-06-03 01:08
 
-Tags: [[Neuroscience]] [[EEG]] [[Signal]] [[Neurophysiology]]
+Tags: [[Neuroscience]] [[EEG]] [[Signal]] [[Neurophysiology]] #Requirements
 
 
 # EEG Signal Processing
