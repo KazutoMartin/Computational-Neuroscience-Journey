@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Materials/Gradient Descent Videos.md",
+                "file": "6 - Main Notes/Neuroscience Mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent Videos"
+              "title": "Neuroscience Mathematics"
             }
           },
           {
-            "id": "13d7f974987b9738",
+            "id": "15312ddc90238edf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Gradient Descent.md",
+                "file": "6 - Main Notes/Singular Value Decomposition (SVD) Explained.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent"
+              "title": "Singular Value Decomposition (SVD) Explained"
+            }
+          },
+          {
+            "id": "ea9254592df1ff80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Motor Imaginary Prediction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Motor Imaginary Prediction"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,22 +287,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "13d7f974987b9738",
+  "active": "ea9254592df1ff80",
   "lastOpenFiles": [
-    "6 - Main Notes/Neuroscience Basic knowledge.md",
-    "6 - Main Notes/Gradient Descent.md",
-    "2 - Source Materials/Gradient Descent Videos.md",
-    "2 - Source Materials/Singular Value Decomposition (SVD) Conceptually Explained.md",
-    "2 - Source Materials/Singular Value Decomposition (SVD) Calculating Explained.md",
-    "2 - Source Materials/EEG and fMRI signals processing requirements.md",
-    "6 - Main Notes/Neuroscience Mathematics.md",
-    "6 - Main Notes/EEG Signal Processing.md",
-    "6 - Main Notes/SVD.md",
+    "z-Attachments/Figure_1.png",
     "6 - Main Notes/Singular Value Decomposition (SVD) Explained.md",
+    "6 - Main Notes/Motor Imaginary Prediction.md",
+    "2 - Source Materials/Singular Value Decomposition (SVD) Conceptually Explained.md",
+    "6 - Main Notes/Singular Value Decomposition (SVD) use cases.md",
+    "3 - Tags/SVD.md",
+    "6 - Main Notes/Neuroscience Mathematics.md",
+    "1 - Rough Notes/Books.md",
+    "2 - Source Materials/Gradient Descent Videos.md",
+    "2 - Source Materials/EEG and fMRI signals processing requirements.md",
+    "6 - Main Notes/Gradient Descent.md",
+    "3 - Tags/Neuroscience.md",
+    "3 - Tags/Probability and Statistics.md",
+    "3 - Tags/Requirements.md",
+    "6 - Main Notes/Neuroscience Basic knowledge.md",
+    "2 - Source Materials/Singular Value Decomposition (SVD) Calculating Explained.md",
+    "6 - Main Notes/EEG Signal Processing.md",
     "6 - Main Notes/Neuroscience Machine Learning and Advanced Analytics.md",
     "6 - Main Notes/fMRI Signal Processing.md",
-    "3 - Tags/Requirements.md",
-    "6 - Main Notes/Singular Value Decomposition (SVD) use cases.md",
     "4 - Indexes/Linear Algebra.md",
     "5 - Templates/Main Note.md",
     "5 - Templates/Source.md",
@@ -286,11 +315,6 @@
     "6 - Main Notes/Filtering.md",
     "3 - Tags/calculus.md",
     "3 - Tags/gemini.md",
-    "3 - Tags/Neurophysiology.md",
-    "3 - Tags/Neuroscience.md",
-    "6 - Main Notes/[Probability and Statistics.md",
-    "3 - Tags/Probability and Statistics.md",
-    "4 - Indexes/Machine Learning.md",
     "Main Notes",
     "6 - Main Notes",
     "5 - Templates",

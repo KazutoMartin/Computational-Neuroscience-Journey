@@ -1,0 +1,1 @@
+Pattern recofgnition and machine learning by christofer bishop
